@@ -1,0 +1,10 @@
+airflow_dbt_project/logs/
+airflow_dbt_project/walmart_project/.user.yml
+airflow_dbt_project\.env
+airflow_dbt_project\config\airflow.cfg
+airflow_dbt_project\logs\
+airflow_dbt_project\walmart_project\.user.yml
+airflow_dbt_project/.env
+airflow_dbt_project/config/
+airflow_dbt_project/logs/
+airflow_dbt_project/walmart_project/.user.yml
